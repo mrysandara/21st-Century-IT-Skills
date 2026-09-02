@@ -33,7 +33,7 @@
 </div>
 
 <p align="justify">
-I am a <b>ꜰᴏᴜʀᴛʜ-ʏᴇᴀʀ ʙᴀᴄʜᴇʟᴏʀ ᴏꜰ ꜱᴄɪᴇɴᴄᴇ ɪɴ ɴᴜʀꜱɪɴɢ ꜱᴛᴜᴅᴇɴᴛ </b> passionate about discovering how healthcare and technology can come together to create meaningful learning experiences and innovative solutions.
+I am a <b>ꜰᴏᴜʀᴛʜ-ʏᴇᴀʀ ɴᴜʀꜱɪɴɢ ꜱᴛᴜᴅᴇɴᴛ </b> passionate about discovering how healthcare and technology can come together to create meaningful learning experiences and innovative solutions.
 </p>
 
 <p align="justify">
@@ -118,3 +118,36 @@ View Activity →
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  
+<i>
+This portfolio reflects my growth as a nursing student who continues to learn, create, and explore new possibilities through digital innovation.
+</i>
+</p>
+
+<br>
+
+<p align="center">
+<i>  
+
+✦ Creating with purpose  
+
+✦ Learning with passion  
+
+✦ Growing through innovation  
+
+</i>
+</p>
+
+<br>
+
+<img src="assets/contact-me.png" width="800">
+
+<p align="right">
+  
+<img src="assets/contact.png" width="550">
+
+</p>
