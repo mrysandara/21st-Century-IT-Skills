@@ -9,44 +9,40 @@
 </i>
 
 <br>
+<br>
 
-<br><br>
+<img src="../assets/overview.png" width="800">
 
+<p align="justify">
+This activity focuses on creating a personal brand identity by combining visual elements that represent my personality, values, and creative direction. Through this process, I developed a cohesive branding system consisting of a logo, tagline, color palette, typography, and visual applications.
+</p>
 
+<p align="justify">
+The goal of this activity was to understand how thoughtful design choices can communicate identity and create a consistent visual presence across different platforms and materials.
+</p>
+
+<img src="Activity 2 Output/TAGLINE.png" width="300">
+
+<img src="Activity 2 Output/COLORTYPOGRAPHY.png" width="300">
+
+<img src="Activity 2 Output/HEADER.png" width="300">
+
+<img src="Activity 2 Output/PERSONAL LOGO.png" width="300">
 
 </div>
-
-<p align="justify">
-This activity focused on applying fundamental presentation design principles to create a visually engaging promotional poster. The objective was to explore how design elements such as typography, color, layout, and visual hierarchy can be combined to effectively communicate a message.
-</p>
-
-<p align="justify">
-For this activity, I created a promotional poster for a free coffee booth event. The design aimed to capture a fun, youthful, and inviting atmosphere while highlighting important details such as the event name, booth location, and the time and date.
-</p>
-
-<table>
-<tr>
-<td width="30%" align="center">
-
-<img src="../assets/act-1-img.png" width="300">
-
-</td>
-
-<td width="70%">
-<div align="left">
-
-<img src="../assets/visual-direct.png" width="900">
 
 <br>
 
+<img src="../assets/visual-direct.png" width="900">
+
 </div>
 
 <p align="justify">
-The visual direction was inspired by a playful café aesthetic that reflects warmth, creativity, and positive energy. A pastel pink color palette was used as the dominant theme to create a friendly and approachable feel, while the contrasting green and orange elements helped emphasize important information.
+The visual direction of my personal brand is inspired by elegance, creativity, and personal growth. The design incorporates soft floral elements, warm neutral tones, and refined typography to create a balance between a professional and artistic identity.
 </p>
 
 <p align="justify">
-The design utilized bold and oversized typography, especially in the <b>"free coffee"</b> text, to immediately capture attention and establish a strong focal point. The layered text elements, coffee image, and decorative background patterns were arranged to create a dynamic composition while maintaining readability.
+The overall aesthetic follows a minimal yet expressive approach, using delicate details and a harmonious color palette to reflect a sense of confidence, individuality, and continuous development.
 </p>
 
 </td>
@@ -60,33 +56,32 @@ The design utilized bold and oversized typography, especially in the <b>"free co
 <img src="https://img.shields.io/badge/visual%20hierarchy-C98B9B?style=for-the-badge">
 
 <p align="justify">
-The poster uses different font sizes and placements to guide the viewer's attention. The large <b>"free coffee"</b> text serves as the primary focal point, while supporting details such as the booth number, event date, and tagline are positioned strategically to provide additional information.
+The arrangement of elements guides attention toward important components such as the logo, brand name, and supporting information.
 </p>
 
 <div align="center">
-
-<br>
  
-<img src="https://img.shields.io/badge/contrast%20-C98B9B?style=for-the-badge">
+<img src="https://img.shields.io/badge/color%20harmony-C98B9B?style=for-the-badge">
 
 <p align="justify">
-Contrast was applied through the combination of bright colors, bold typography, and varying text sizes. The use of pink, orange, green, and brown elements creates separation between different design components and improves visibility.
+The selected colors work together to establish a warm and sophisticated atmosphere. Burgundy represents confidence and passion, while softer tones add creativity and approachability.
 </p>
-
-<br>
 
 <img src="https://img.shields.io/badge/balance%20-C98B9B?style=for-the-badge">
 
 <p align="justify">
-The composition balances the large coffee image with the surrounding typography and background elements. The centered placement of the drink creates stability, while the surrounding text and decorative elements add visual interest.
+The combination of elegant script fonts with clean typography creates visual balance between creativity and professionalism.
 </p>
 
-<br>
+<img src="https://img.shields.io/badge/personal%20epression-C98B9B?style=for-the-badge">
+
+<p align="justify">
+Each design element was carefully selected to represent my personality, interests, and vision as a future healthcare professional who values creativity and innovation.</p>
 
 <img src="https://img.shields.io/badge/consistency%20-C98B9B?style=for-the-badge">
 
 <p align="justify">
-A consistent visual identity was maintained through the repeated use of the pastel color palette, playful typography, and café-inspired design elements. This creates a cohesive and recognizable poster design.
+The use of a unified color palette, typography system, and recurring visual elements creates a recognizable and cohesive brand identity.
 </p>
 
 <br>
@@ -97,11 +92,17 @@ A consistent visual identity was maintained through the repeated use of the past
 
 <i>
 <p align="justify">
-𝚃𝚑𝚛𝚘𝚞𝚐𝚑 𝚝𝚑𝚒𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢, 𝙸 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚝𝚑𝚊𝚝 𝚎𝚏𝚏𝚎𝚌𝚝𝚒𝚟𝚎 𝚍𝚎𝚜𝚒𝚐𝚗 𝚒𝚜 𝚗𝚘𝚝 𝚘𝚗𝚕𝚢 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚔𝚒𝚗𝚐 𝚊𝚗 𝚘𝚞𝚝𝚙𝚞𝚝 𝚟𝚒𝚜𝚞𝚊𝚕𝚕𝚢 𝚊𝚙𝚙𝚎𝚊𝚕𝚒𝚗𝚐 𝚋𝚞𝚝 𝚊𝚕𝚜𝚘 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚗𝚐 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚌𝚕𝚎𝚊𝚛𝚕𝚢. 𝙴𝚊𝚌𝚑 𝚎𝚕𝚎𝚖𝚎𝚗𝚝, 𝚏𝚛𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜 𝚝𝚘 𝚝𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢, 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚜 𝚝𝚘 𝚑𝚘𝚠 𝚝𝚑𝚎 𝚊𝚞𝚍𝚒𝚎𝚗𝚌𝚎 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚍𝚎𝚜𝚒𝚐𝚗.
+𝚃𝚑𝚛𝚘𝚞𝚐𝚑 𝚝𝚑𝚒𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢, 𝙸 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚝𝚑𝚊𝚝 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚋𝚛𝚊𝚗𝚍𝚒𝚗𝚐 𝚒𝚜 𝚖𝚘𝚛𝚎 𝚝𝚑𝚊𝚗 𝚓𝚞𝚜𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚊 𝚟𝚒𝚜𝚞𝚊𝚕𝚕𝚢 𝚊𝚙𝚙𝚎𝚊𝚕𝚒𝚗𝚐 𝚍𝚎𝚜𝚒𝚐𝚗. 𝙸𝚝 𝚒𝚜 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚗𝚟𝚎𝚢𝚒𝚗𝚐 𝚒𝚍𝚎𝚗𝚝𝚒𝚝𝚢, 𝚟𝚊𝚕𝚞𝚎𝚜, 𝚊𝚗𝚍 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕𝚒𝚝𝚢 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚌𝚊𝚛𝚎𝚏𝚞𝚕𝚕𝚢 𝚌𝚑𝚘𝚜𝚎𝚗 𝚍𝚎𝚜𝚒𝚐𝚗 𝚎𝚕𝚎𝚖𝚎𝚗𝚝𝚜. 𝙸 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚎𝚍 𝚝𝚑𝚊𝚝 𝚌𝚘𝚕𝚘𝚛𝚜, 𝚝𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢, 𝚊𝚗𝚍 𝚟𝚒𝚜𝚞𝚊𝚕 𝚜𝚝𝚢𝚕𝚎 𝚊𝚛𝚎 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚝𝚘𝚘𝚕𝚜 𝚝𝚑𝚊𝚝 𝚑𝚎𝚕𝚙 𝚝𝚎𝚕𝚕 𝚊 𝚜𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚎 𝚊 𝚖𝚎𝚊𝚗𝚒𝚗𝚐𝚏𝚞𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚘𝚝𝚑𝚎𝚛𝚜.
 </p>
 
 <p align="justify">
-𝚃𝚑𝚒𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚜𝚝𝚛𝚎𝚗𝚐𝚝𝚑𝚎𝚗𝚎𝚍 𝚖𝚢 𝚊𝚙𝚙𝚛𝚎𝚌𝚒𝚊𝚝𝚒𝚘𝚗 𝚏𝚘𝚛 𝚒𝚗𝚝𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕 𝚍𝚎𝚜𝚒𝚐𝚗 𝚌𝚑𝚘𝚒𝚌𝚎𝚜 𝚊𝚗𝚍 𝚑𝚘𝚠 𝚟𝚒𝚜𝚞𝚊𝚕 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚌𝚊𝚗 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖 𝚜𝚒𝚖𝚙𝚕𝚎 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜 𝚒𝚗𝚝𝚘 𝚎𝚗𝚐𝚊𝚐𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</p>
+𝚃𝚑𝚒𝚜 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚕𝚜𝚘 𝚑𝚎𝚕𝚙𝚎𝚍 𝚖𝚎 𝚛𝚎𝚊𝚕𝚒𝚣𝚎 𝚝𝚑𝚎 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚌𝚎 𝚘𝚏 𝚌𝚘𝚗𝚜𝚒𝚜𝚝𝚎𝚗𝚌𝚢 𝚒𝚗 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚋𝚛𝚊𝚗𝚍. 𝙴𝚟𝚎𝚛𝚢 𝚍𝚎𝚝𝚊𝚒𝚕, 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚕𝚘𝚐𝚘 𝚍𝚎𝚜𝚒𝚐𝚗 𝚝𝚘 𝚝𝚑𝚎 𝚌𝚘𝚕𝚘𝚛 𝚙𝚊𝚕𝚎𝚝𝚝𝚎 𝚊𝚗𝚍 𝚝𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢, 𝚙𝚕𝚊𝚢𝚜 𝚊 𝚛𝚘𝚕𝚎 𝚒𝚗 𝚛𝚎𝚙𝚛𝚎𝚜𝚎𝚗𝚝𝚒𝚗𝚐 𝚖𝚢 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚒𝚍𝚎𝚗𝚝𝚒𝚝𝚢. 𝙸 𝚊𝚕𝚜𝚘 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚝𝚑𝚊𝚝 𝚐𝚘𝚘𝚍 𝚍𝚎𝚜𝚒𝚐𝚗 𝚒𝚜 𝚊 𝚋𝚊𝚕𝚊𝚗𝚌𝚎 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚗𝚍 𝚌𝚕𝚊𝚛𝚒𝚝𝚢.
+</p>
+
+<p align="justify">
+𝚄𝚕𝚝𝚒𝚖𝚊𝚝𝚎𝚕𝚢, 𝚝𝚑𝚒𝚜 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚜𝚑𝚘𝚠𝚎𝚍 𝚖𝚎 𝚑𝚘𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚌𝚊𝚗 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚊𝚜 𝚊 𝚖𝚎𝚍𝚒𝚞𝚖 𝚏𝚘𝚛 𝚜𝚎𝚕𝚏-𝚎𝚡𝚙𝚛𝚎𝚜𝚜𝚒𝚘𝚗, 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚐𝚛𝚘𝚠𝚝𝚑. 𝙰𝚜 𝚊 𝚏𝚞𝚝𝚞𝚛𝚎 𝚑𝚎𝚊𝚕𝚝𝚑𝚌𝚊𝚛𝚎 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕, 𝙸 𝚛𝚎𝚌𝚘𝚐𝚗𝚒𝚣𝚎 𝚝𝚑𝚊𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚗𝚍 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚕𝚒𝚝𝚎𝚛𝚊𝚌𝚢 𝚌𝚊𝚗 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚑𝚘𝚠 𝙸 𝚌𝚘𝚗𝚗𝚎𝚌𝚝, 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚎, 𝚊𝚗𝚍 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚎 𝚒𝚗 𝚖𝚢 𝚏𝚞𝚝𝚞𝚛𝚎 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎.
+</p>
+
 </i>
 
 <br>
@@ -110,16 +111,15 @@ A consistent visual identity was maintained through the repeated use of the past
 
 ---
 
-<b>⟡⋆˙ ᴀᴄᴛɪᴠᴛɪʏ 1 ⋆˙⟡ </b>
+<b>⟡⋆˙ ᴀᴄᴛɪᴠᴛɪʏ 2 ⋆˙⟡ </b>
 
-ᴘʀᴇꜱᴇɴᴛᴀᴛɪᴏɴ ᴅᴇꜱɪɢɴ ᴘʀɪɴᴄɪᴘʟᴇꜱ
+ᴘᴇʀꜱᴏɴᴀʟ ʙʀᴀɴᴅɪɴɢ
 
 <br>
-<a href="Activity-1-Output.png">
-See image →
+<a href="Activity 2 Output">
+Explore →
 </a>
 
 <br>
 <br>
 <img src="../assets/line.png" width="800">
-
