@@ -44,6 +44,8 @@ Through the <b>21ꜱᴛ ᴄᴇɴᴛᴜʀʏ ɪᴛ ꜱᴋɪʟʟꜱ ᴄᴏᴜʀꜱ�
 </tr>
 </table>
 
+<br>
+
 <p align="center"> <b>⟡⋆˙ ᴄᴜʀʀᴇɴᴛʟʏ ᴇxᴘʟᴏʀɪɴɢ ⋆˙⟡ </b></p>
 
 <p align="center">
@@ -53,8 +55,66 @@ Through the <b>21ꜱᴛ ᴄᴇɴᴛᴜʀʏ ɪᴛ ꜱᴋɪʟʟꜱ ᴄᴏᴜʀꜱ�
 <img src="https://img.shields.io/badge/technological%20growth-C98B9B?style=for-the-badge">
 <img src="https://img.shields.io/badge/care%20innovation-C98B9B?style=for-the-badge">
 
-
 </p>
 <br>
 
+<div align="left">
+  
+<img src="assets/about-this-rep.png" width="800">
 
+<div align="center">
+
+<p align="justify">
+This repository serves as my digital portfolio for the 
+<b>21ꜱᴛ ᴄᴇɴᴛᴜʀʏ ɪᴛ ꜱᴋɪʟʟꜱ ᴄᴏᴜʀꜱᴇ</b>, showcasing my activities, 
+creative outputs, and projects developed throughout the semester.
+</p>
+
+<p align="justify">
+Through these works, I demonstrate my growth in digital literacy, 
+creative design, and the application of technology as a tool for 
+communication, and learning.
+</p>
+
+---
+
+<p align="center"> <b>⟡⋆˙ᴄᴏᴜʀꜱᴇ ᴀᴄᴛɪᴠɪᴛɪᴇꜱ⋆˙⟡ </b></p>
+
+<table width="100%" border="0">
+
+<tr>
+  
+<td width="34%" align="center">
+
+<h3>01</h3>
+<b>ᴘʀᴇꜱᴇɴᴛᴀᴛɪᴏɴ ᴅᴇꜱɪɢɴ ᴘʀɪɴᴄɪᴘʟᴇꜱ</b>
+<br><br>
+<a href="ACTIVITY%201">
+View Activity →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+  
+<h3>02</h3>
+<b>ᴘᴇʀꜱᴏɴᴀʟ ʙʀᴀɴᴅɪɴɢ</b>
+<br><br>
+<a href="ACTIVITY%202">
+View Activity →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>03</h3>
+<b>ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ɪɴꜰᴏɢʀᴀᴘʜɪᴄꜱ</b>
+<br><br>
+<a href="ACTIVITY%203">
+View Activity →
+</a>
+
+</td>
+</tr>
+</table>
