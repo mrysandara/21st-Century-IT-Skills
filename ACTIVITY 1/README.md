@@ -111,7 +111,7 @@ A consistent visual identity was maintained through the repeated use of the past
 ᴘʀᴇꜱᴇɴᴛᴀᴛɪᴏɴ ᴅᴇꜱɪɢɴ ᴘʀɪɴᴄɪᴘʟᴇꜱ
 
 <br>
-<a href="ACTIVITY%201/activity-1-output.png">
+<a href="ACTIVITY%201/Activity-1-Output.png">
 See image →
 </a>
 
