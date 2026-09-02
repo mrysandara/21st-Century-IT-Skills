@@ -1,73 +1,60 @@
-# ₊˚⊹ Hi, I'm Sandy ✦
+<div align="center">
+  
+#### ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʟɪᴛᴛʟᴇ ᴄᴏʀɴᴇʀ ᴏꜰ ᴄʀᴇᴀᴛɪᴠɪᴛʏ, ɪ ᴀᴍ
 
-**BS Nursing Student Year 4 | 21st Century IT Skills**
+<img src="assets/mary-sandara-logo.jpeg" width="500">
 
-Welcome to my digital portfolio for the **21st Century IT Skills course**.
+<br>
 
-This repository serves as a collection of my academic activities, creative outputs, and projects that reflect my journey in developing digital literacy, design skills, and technological awareness. Through this portfolio, I showcase how technology can be used as a tool for creativity, communication, and continuous learning.
+*ʙʟᴏᴏᴍɪɴɢ ᴛʜʀᴏᴜɢʜ ʟᴇᴀʀɴɪɴɢ, ᴄʀᴇᴀᴛɪɴɢ ᴡɪᴛʜ ᴘᴜʀᴘᴏꜱᴇ*
 
----
+<br>
 
-## ₊˚⊹ About Me
+<div align="left">
+  
+<img src="assets/get-to-know-me.png" width="800">
 
-I am a **4th-year Bachelor of Science in Nursing student** with an interest in exploring the relationship between healthcare and technology.
+<table>
+  
+<tr>
 
-Through the **21st Century IT Skills course**, I continue to develop my skills in digital communication, creative design, and the effective use of technology to support learning, collaboration, and future nursing practice.
+<td width="30%" align="center">
 
-### Currently exploring:
-- Digital tools and technology applications in healthcare
-- Information technology and digital collaboration
-- Creative design and visual communication
-- Innovative approaches to learning and professional growth
+<img src="assets/self-image.jpeg" width="300">
 
----
+</td>
 
-# ✦ Course Activities
+<td width="65%">
 
-## Activity 1: Presentation Design Principles
+<div align="center">
+  
+<b> ʜᴇʟʟᴏ ₊˚⊹ </b>
 
-This activity focused on applying fundamental presentation design principles, including **visual hierarchy, alignment, contrast, balance, and consistency**.
+</div>
 
-As part of this activity, I created a promotional poster for a coffee product by integrating design concepts and visual strategies learned in class. The process emphasized the importance of creating organized, appealing, and effective visual content that communicates ideas clearly to an audience.
+<p align="justify">
+I am a <b>ꜰᴏᴜʀᴛʜ-ʏᴇᴀʀ ʙᴀᴄʜᴇʟᴏʀ ᴏꜰ ꜱᴄɪᴇɴᴄᴇ ɪɴ ɴᴜʀꜱɪɴɢ ꜱᴛᴜᴅᴇɴᴛ </b> passionate about discovering how healthcare and technology can come together to create meaningful learning experiences and innovative solutions.
+</p>
 
----
+<p align="justify">
+Through the <b>21ꜱᴛ ᴄᴇɴᴛᴜʀʏ ɪᴛ ꜱᴋɪʟʟꜱ ᴄᴏᴜʀꜱᴇ</b>, I continue to explore the creative side of technology — developing my skills in digital communication, visual storytelling, and design while discovering how digital tools can support my future practice as a healthcare professional.
+</p>
 
-## Activity 2: Personal Branding
+</td>
+</tr>
+</table>
 
-This activity explored the importance of developing a personal visual identity through the selection of design elements that represent my style, values, and professional image.
+<p align="center"> <b>⟡⋆˙ ᴄᴜʀʀᴇɴᴛʟʏ ᴇxᴘʟᴏʀɪɴɢ ⋆˙⟡ </b></p>
 
-I created my own **personal logo, color palette and typography set, resume header, and personal tagline** by applying principles of branding, consistency, and visual communication. This activity helped me understand how intentional design choices can create a recognizable and meaningful personal brand.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/brand%20identity-C98B9B?style=for-the-badge">
+<img src="https://img.shields.io/badge/digital%20creativity-C98B9B?style=for-the-badge">
+<img src="https://img.shields.io/badge/technological%20growth-C98B9B?style=for-the-badge">
+<img src="https://img.shields.io/badge/care%20innovation-C98B9B?style=for-the-badge">
 
-## Activity 3: Social Media Infographics and Project Documentation
 
-This activity focused on creating informative digital content through **social media infographic design and project documentation**.
+</p>
+<br>
 
-Through this project, I applied design principles, creativity, and effective information organization to transform ideas into clear and engaging visual materials. It enhanced my ability to communicate information effectively while considering both aesthetics and audience understanding.
 
----
-
-## ✦ Skills & Tools
-
-- GitHub
-- Digital Collaboration
-- Information Technology
-- Graphic Design Principles
-- Digital Productivity Tools
-- Visual Communication
-- Healthcare Technology Applications
-
----
-
-## ₊˚⊹ Learning Journey
-
-This portfolio represents my continuous growth as a nursing student embracing technology, creativity, and innovation.
-
-Through every activity, I continue to explore how digital skills can complement healthcare practice and support meaningful communication, learning, and professional development.
-
-*"Learning, creating, and connecting through technology."*
-
----
-
-**BS Nursing Student Year 4 | 21st Century IT Skills**
