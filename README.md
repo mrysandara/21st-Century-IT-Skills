@@ -155,6 +155,17 @@ View Activity →
 </a>
 
 </td>
+
+<td width="35%" align="center">
+
+<h3>07</h3>
+<b>ᴇxᴘʟᴏʀɪɴɢ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ʀᴇꜱᴜᴍᴇ ᴄʀᴇᴀᴛɪᴏɴ</b>
+<br><br>
+<a href="ACTIVITY%207">
+View Activity →
+</a>
+
+</td>
 </tr>
 </table>
 
