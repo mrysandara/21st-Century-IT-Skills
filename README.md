@@ -123,7 +123,7 @@ View Activity →
 
 <tr>
   
-<td width="34%" align="center">
+<td width="35%" align="center">
 
 <h3>04</h3>
 <b>ᴍɪᴅᴛᴇʀᴍ ʀᴇᴘᴏʀᴛɪɴɢ</b>
@@ -134,9 +134,9 @@ View Activity →
 
 </td>
 
-<td width="33%" align="center">
+<td width="35%" align="center">
   
-<h3>02</h3>
+<h3>05</h3>
 <b>ᴀɪ ᴛᴏᴏʟꜱ ᴀᴄᴛɪᴠɪᴛʏ</b>
 <br><br>
 <a href="ACTIVITY%205">
@@ -145,7 +145,7 @@ View Activity →
 
 </td>
 
-<td width="33%" align="center">
+<td width="35%" align="center">
 
 <h3>06</h3>
 <b>ᴍᴀᴋɪɴɢ ᴀ ᴡᴇʙꜱɪᴛᴇ</b>
