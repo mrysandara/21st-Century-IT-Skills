@@ -123,7 +123,7 @@ View Activity →
 
 <tr>
   
-<td width="35%" align="center">
+<td width="25%" align="center">
 
 <h3>04</h3>
 <b>ᴍɪᴅᴛᴇʀᴍ ʀᴇᴘᴏʀᴛɪɴɢ</b>
@@ -134,7 +134,7 @@ View Activity →
 
 </td>
 
-<td width="35%" align="center">
+<td width="25%" align="center">
   
 <h3>05</h3>
 <b>ᴀɪ ᴛᴏᴏʟꜱ ᴀᴄᴛɪᴠɪᴛʏ</b>
@@ -145,7 +145,7 @@ View Activity →
 
 </td>
 
-<td width="35%" align="center">
+<td width="25%" align="center">
 
 <h3>06</h3>
 <b>ᴍᴀᴋɪɴɢ ᴀ ᴡᴇʙꜱɪᴛᴇ</b>
@@ -156,7 +156,7 @@ View Activity →
 
 </td>
 
-<td width="35%" align="center">
+<td width="25%" align="center">
 
 <h3>07</h3>
 <b>ᴇxᴘʟᴏʀɪɴɢ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ʀᴇꜱᴜᴍᴇ ᴄʀᴇᴀᴛɪᴏɴ</b>
