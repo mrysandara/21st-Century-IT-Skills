@@ -119,6 +119,45 @@ View Activity →
 </tr>
 </table>
 
+<table width="100%" border="0">
+
+<tr>
+  
+<td width="34%" align="center">
+
+<h3>04</h3>
+<b>ᴍɪᴅᴛᴇʀᴍ ʀᴇᴘᴏʀᴛɪɴɢ</b>
+<br><br>
+<a href="ACTIVITY%204">
+View Activity →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+  
+<h3>02</h3>
+<b>ᴀɪ ᴛᴏᴏʟꜱ ᴀᴄᴛɪᴠɪᴛʏ</b>
+<br><br>
+<a href="ACTIVITY%205">
+View Activity →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>06</h3>
+<b>ᴍᴀᴋɪɴɢ ᴀ ᴡᴇʙꜱɪᴛᴇ</b>
+<br><br>
+<a href="ACTIVITY%206">
+View Activity →
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <p align="center">
